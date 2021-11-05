@@ -283,7 +283,7 @@ textarea.form-control.main {
 }
 
 .left img {
-  margin-left: -40px;
+  margin-left: 8px;
 }
 
 @media (max-width: 768px) {
@@ -1735,6 +1735,7 @@ hr {
 
 .investors .block .image {
   margin-bottom: 20px;
+  height: 250px;
 }
 
 .investors .block .image img {
